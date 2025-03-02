@@ -7,7 +7,7 @@ The HR wants to create Attrition report show they understand employees how have 
 
 
 Questions (KPI)
-📊 Show total employees based on gender using a Donut Chart with values displayed in the center and a specific slicer.
+📊 Show total employees based on gender using a Donut Chart with values displayed in the center and a specific slicer.<br />
 📉 Analyze Attrition and Education levels of employees.
 💼 Identify which job role has the highest attrition.
 🏢 Present attrition based on department.
