@@ -13,4 +13,4 @@ Questions (KPI)
 🏢 Present attrition based on department.
 📆 Examine the relationship between age groups and attrition.
 💍 Showcase attrition based on marital status.
-🔗 Dashboard interaction <a href="">View Dashborad</a>
+🔗 Dashboard interaction <a href="https://github.com/RohitKumar649/HR-Excel-Dashboard/blob/main/Screenshot%20HR%20Deshbord.png">View Dashborad</a>
