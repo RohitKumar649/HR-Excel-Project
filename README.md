@@ -25,3 +25,22 @@ The HR wants to create Attrition report show they understand employees how have 
 ## Dashboard
 ![Screenshot (495)](https://github.com/RohitKumar649/HR-Excel-Dashboard/blob/main/Screenshot%20HR%20Deshbord.png)
 
+## Project Insights  
+
+- 👥 **Total Employees**: The dataset consists of **1,470 employees**, with **882 males** and **588 females**.  
+- 🎓 **Education & Attrition Analysis**: A **horizontal bar chart** illustrates attrition based on education levels.  
+  - The highest attrition is observed among employees with a **Bachelor’s degree (99)**.  
+  - The lowest attrition is among those with a **Doctorate degree (5)**.  
+- 🌳 **Job Role & Attrition (Tree Map)**:  
+  - **Laboratory Technicians** have the highest attrition, represented by the largest box.  
+  - **Research Directors** have the lowest attrition, shown by the smallest box.  
+- 📊 **Department-wise Attrition (Pie Chart)**:  
+  - The **R&D department** has the highest attrition rate at **56.12%**.  
+  - The **HR department** has the lowest attrition rate at **5.6%**.  
+- 📈 **Age Group & Attrition (Vertical Bar Chart)**:  
+  - Employees aged **25-34** recorded the highest attrition, with **112 cases**.  
+- 💍 **Marital Status & Attrition**:  
+  - **Married employees** have the highest attrition (**673**).  
+  - **Divorced employees** follow with **327 cases**.  
+- 🎛 **Interactive Slicers**: Slicers have been added for **Education Field** and **Department**, enabling dynamic filtering. 
+
