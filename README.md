@@ -21,3 +21,5 @@ The HR wants to create Attrition report show they understand employees how have 
 - ✅ **Data Cleaning & Formatting** – Standardized data types, formats, and values to maintain consistency.  
 - ✅ **Pivot Table Creation** – Developed pivot tables based on the key questions for insightful analysis.  
 - ✅ **Dashboard Integration** – Combined all pivot tables into a **single interactive dashboard** and applied slicers for dynamic filtering. 
+
+## Dashboard
