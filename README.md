@@ -23,7 +23,7 @@ The HR wants to create Attrition report show they understand employees how have 
 - ✅ **Dashboard Integration** – Combined all pivot tables into a **single interactive dashboard** and applied slicers for dynamic filtering. 
 
 ## Dashboard
-![HR Dashboard image.png](https://github.com/RohitKumar649/HR-Excel-Dashboard/blob/main/Screenshot%20HR%20Deshbord.png)
+![HR Dashboard image.png](https://github.com/RohitKumar649/HR-Excel-Project/blob/main/HR%20Dashboard%20image.png)
 
 ## Project Insights  
 
