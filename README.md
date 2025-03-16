@@ -13,7 +13,7 @@ The HR wants to create Attrition report show they understand employees how have 
 🏢 Present attrition based on department.<br />
 📆 Examine the relationship between age groups and attrition.<br />
 💍 Showcase attrition based on marital status.<br />
-🔗 Dashboard interaction <a href="https://github.com/RohitKumar649/HR-Excel-Dashboard/blob/main/Screenshot%20HR%20Deshbord.png">View Dashborad</a>
+🔗 Dashboard interaction <a href="https://github.com/RohitKumar649/HR-Excel-Project/blob/main/HR%20Dashboard%20image.png">View Dashborad</a>
 
 
 ## Process  
