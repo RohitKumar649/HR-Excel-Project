@@ -61,4 +61,4 @@ This project provides valuable insights into **employee attrition trends**, help
 The **interactive dashboard**, equipped with slicers for **Education Field** and **Department**, enables easy data exploration. This makes it a valuable tool for **HR teams** to make data-driven decisions and improve employee retention strategies.  
 
 
-- <a href="https://github.com/RohitKumar649/HR-Excel-Dashboard/blob/main/HR%20Excel%20Project.xlsx">Dataset</a>
+- <a href="https://https://github.com/RohitKumar649/HR-Excel-Project/blob/main/HR%20Excel%20Data%20%26%20Project.xlsx">Dataset</a>
