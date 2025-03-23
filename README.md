@@ -62,3 +62,4 @@ The **interactive dashboard**, equipped with slicers for **Education Field** and
 
 
 
+https://github.com/RohitKumar649/HR-Excel-Project/blob/main/HR%20Dashboard%20image.png
