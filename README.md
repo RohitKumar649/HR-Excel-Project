@@ -60,4 +60,4 @@ This project provides valuable insights into **employee attrition trends**, help
 
 The **interactive dashboard**, equipped with slicers for **Education Field** and **Department**, enables easy data exploration. This makes it a valuable tool for **HR teams** to make data-driven decisions and improve employee retention strategies.  
 
-
+ ![Image Two]https://github.com/RohitKumar649/Python_Diwali_Sales_Analysis/blob/main/Amoun%20of%20Marital_Status.png
